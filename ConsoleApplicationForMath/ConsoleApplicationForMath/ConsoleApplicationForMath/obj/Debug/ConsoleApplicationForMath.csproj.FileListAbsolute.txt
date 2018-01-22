@@ -1,0 +1,8 @@
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationForMath\bin\Debug\ConsoleApplicationForMath.exe.config
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationForMath\bin\Debug\ConsoleApplicationForMath.exe
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationForMath\bin\Debug\ConsoleApplicationForMath.pdb
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationForMath\obj\Debug\ConsoleApplicationForMath.exe
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationForMath\obj\Debug\ConsoleApplicationForMath.pdb
+C:\Users\WakanowDev\Desktop\Tests\ConsoleApplicationForMath\ConsoleApplicationForMath\ConsoleApplicationForMath\bin\Debug\ConsoleApplicationForMath.exe.config
+C:\Users\WakanowDev\Desktop\Tests\ConsoleApplicationForMath\ConsoleApplicationForMath\ConsoleApplicationForMath\obj\Debug\ConsoleApplicationForMath.exe
+C:\Users\WakanowDev\Desktop\Tests\ConsoleApplicationForMath\ConsoleApplicationForMath\ConsoleApplicationForMath\obj\Debug\ConsoleApplicationForMath.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Details>
+  <Test_Addition_TC01 Number1="20" NUmber2="40" Result="60" />
+  <Test_Addition_TC01 Number1="66" NUmber2="40" Result="106" />
+  <Test_Addition_TC01 Number1="-10" NUmber2="10" Result="0" />
+</Details>

@@ -1,0 +1,13 @@
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\obj\Debug\ConsoleApplicationMath.Test.Project.csprojResolveAssemblyReference.cache
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\bin\Debug\ConsoleApplicationMath.Test.Project.dll
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\bin\Debug\ConsoleApplicationMath.Test.Project.pdb
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\bin\Debug\ConsoleApplicationForMath.exe
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\bin\Debug\ConsoleApplicationForMath.pdb
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\obj\Debug\ConsoleApplicationMath.Test.Project.dll
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\obj\Debug\ConsoleApplicationMath.Test.Project.pdb
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\bin\Debug\TestData\Addition.xml
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\bin\Debug\TestData\Subtraction.xml
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\bin\Debug\TestData\Multiplication.xml
+c:\users\mpalanisamy\documents\visual studio 2015\Projects\ConsoleApplicationForMath\ConsoleApplicationMath.Test.Project\bin\Debug\TestData\Division.xml

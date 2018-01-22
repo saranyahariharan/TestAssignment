@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Details>
+  <Test_Division_TC01 Number1="40" NUmber2="2" Result="20" />
+  <Test_Division_TC01 Number1="66" NUmber2="2" Result="33" />
+  <Test_Division_TC02 Number1="66" NUmber2="0" Result="33" />
+  
+</Details>
